@@ -62,45 +62,44 @@ def search_templates(query: str = Query(..., description="User query for the pop
         return {"error": str(e)}
 
 @app.post("/templates")
-def add_template(templates: list[Template]):
+def add_templates(templates: list[Template]):
     try:
-        for t in templates:
-            add(t)
-
+        add(templates)
         return {"status": "success"}
 
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+        
 
+def add(templates: list[Template]):
+    all_embeddings = []
+    for template in templates:
+        text_parts = [
+            template.title,
+            "Optin Type: " + template.type,
+            "goals: " + " ".join(template.goals),
+            "categories: " + " ".join(template.categories),
+            "industries: " + " ".join(template.industries),
+        ]
+        full_text = " ".join(text_parts).strip()
+        prompt = "Represent this sentence for retrieval: " + full_text
+        emb = model.encode(prompt, convert_to_numpy=True)
+        emb = emb / np.linalg.norm(emb)
+        all_embeddings.append(emb)
 
-def add(template: Template):
-    # Construct embedding text
-    text_parts = [
-        template.title,
-        "Optin Type: " + template.type,
-        "goals: " + " ".join(template.goals),
-        "categories: " + " ".join(template.categories),
-        "industries: " + " ".join(template.industries),
-    ]
-    full_text = " ".join(text_parts).strip()
-    prompt = "Represent this sentence for retrieval: " + full_text
+        metadata.append({
+            "id": template.id,
+            "title": template.title,
+            "type": template.type,
+            "categories": template.categories,
+            "goals": template.goals,
+            "industries": template.industries,
+        })
 
-    # Embed and normalize
-    emb = model.encode(prompt, convert_to_numpy=True)
-    emb = emb / np.linalg.norm(emb)
+    # Add all to index
+    index.add(np.array(all_embeddings))
 
-    # Add to index and metadata
-    index.add(np.array([emb]))
-    metadata.append({
-        "id": template.id,
-        "title": template.title,
-        "type": template.type,
-        "categories": template.categories,
-        "goals": template.goals,
-        "industries": template.industries,
-    })
-
-    # Save index and metadata
+    # Save
     faiss.write_index(index, index_path)
     with open(metadata_path, "w", encoding="utf-8") as f:
         json.dump(metadata, f, indent=2)
