@@ -1,0 +1,744 @@
+[
+  {
+    "id": 370,
+    "title": "Stay Connected!",
+    "type": "inline",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "exit",
+      "for_you"
+    ],
+    "industries": [
+      "ecom"
+    ]
+  },
+  {
+    "id": 369,
+    "title": "Stay Connected!",
+    "type": "inline",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "exit",
+      "for_you"
+    ],
+    "industries": [
+      "ecom"
+    ]
+  },
+  {
+    "id": 368,
+    "title": "Stay Connected!",
+    "type": "popup",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "exit",
+      "for_you"
+    ],
+    "industries": [
+      "ecom"
+    ]
+  },
+  {
+    "id": 367,
+    "title": "Travel (Resort) Offer",
+    "type": "banner",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "coupon",
+      "for_you"
+    ],
+    "industries": [
+      "travel"
+    ]
+  },
+  {
+    "id": 366,
+    "title": "Travel (Resort) Offer",
+    "type": "popup",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "coupon",
+      "for_you"
+    ],
+    "industries": [
+      "travel"
+    ]
+  },
+  {
+    "id": 365,
+    "title": "Important Notice",
+    "type": "slidein",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "for_you",
+      "sub"
+    ],
+    "industries": [
+      "ecom"
+    ]
+  },
+  {
+    "id": 364,
+    "title": "Get Access to Bonus Content!",
+    "type": "inline",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "for_you",
+      "sub"
+    ],
+    "industries": [
+      "blogger"
+    ]
+  },
+  {
+    "id": 363,
+    "title": "Get Access to Bonus Content!",
+    "type": "slidein",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "for_you",
+      "sub"
+    ],
+    "industries": [
+      "blogger"
+    ]
+  },
+  {
+    "id": 362,
+    "title": "Get Access to Bonus Content!",
+    "type": "popup",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "for_you",
+      "sub"
+    ],
+    "industries": [
+      "blogger"
+    ]
+  },
+  {
+    "id": 361,
+    "title": "Important Notice",
+    "type": "popup",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "ann",
+      "for_you"
+    ],
+    "industries": [
+      "ecom"
+    ]
+  },
+  {
+    "id": 360,
+    "title": "Laliga Schedule",
+    "type": "slidein",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "ann",
+      "for_you"
+    ],
+    "industries": [
+      "sport"
+    ]
+  },
+  {
+    "id": 359,
+    "title": "Laliga Schedule",
+    "type": "popup",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "ann",
+      "for_you"
+    ],
+    "industries": [
+      "sport"
+    ]
+  },
+  {
+    "id": 358,
+    "title": "Your Seasonal Favorites",
+    "type": "banner",
+    "categories": [
+      "summer"
+    ],
+    "goals": [
+      "for_you",
+      "sub"
+    ],
+    "industries": [
+      "ecom"
+    ]
+  },
+  {
+    "id": 357,
+    "title": "Your Seasonal Favorites",
+    "type": "slidein",
+    "categories": [
+      "summer"
+    ],
+    "goals": [
+      "for_you",
+      "sub"
+    ],
+    "industries": [
+      "ecom"
+    ]
+  },
+  {
+    "id": 356,
+    "title": "Your Seasonal Favorites",
+    "type": "popup",
+    "categories": [
+      "summer"
+    ],
+    "goals": [
+      "for_you",
+      "sub"
+    ],
+    "industries": [
+      "ecom"
+    ]
+  },
+  {
+    "id": 355,
+    "title": "Laliga Schedule",
+    "type": "banner",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "ann",
+      "for_you"
+    ],
+    "industries": [
+      "sport"
+    ]
+  },
+  {
+    "id": 354,
+    "title": "Join the Green Movement",
+    "type": "banner",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "for_you",
+      "sub"
+    ],
+    "industries": [
+      "charity"
+    ]
+  },
+  {
+    "id": 353,
+    "title": "Join the Green Movement",
+    "type": "inline",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "for_you",
+      "sub"
+    ],
+    "industries": [
+      "charity"
+    ]
+  },
+  {
+    "id": 352,
+    "title": "Join the Green Movement",
+    "type": "slidein",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "for_you",
+      "sub"
+    ],
+    "industries": [
+      "charity"
+    ]
+  },
+  {
+    "id": 351,
+    "title": "Join the Green Movement",
+    "type": "popup",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "for_you",
+      "sub"
+    ],
+    "industries": [
+      "charity"
+    ]
+  },
+  {
+    "id": 350,
+    "title": "Let\u2019s Get You Started!",
+    "type": "slidein",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "for_you",
+      "sub"
+    ],
+    "industries": [
+      "charity"
+    ]
+  },
+  {
+    "id": 349,
+    "title": "Let\u2019s Get You Started!",
+    "type": "inline",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "for_you",
+      "sub"
+    ],
+    "industries": [
+      "charity"
+    ]
+  },
+  {
+    "id": 348,
+    "title": "Let\u2019s Get You Started!",
+    "type": "popup",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "for_you",
+      "sub"
+    ],
+    "industries": [
+      "charity"
+    ]
+  },
+  {
+    "id": 347,
+    "title": "Coming Soon!",
+    "type": "inline",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "for_you",
+      "offer"
+    ],
+    "industries": [
+      "ecom"
+    ]
+  },
+  {
+    "id": 346,
+    "title": "Coming Soon!",
+    "type": "slidein",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "ann",
+      "for_you"
+    ],
+    "industries": [
+      "ecom"
+    ]
+  },
+  {
+    "id": 345,
+    "title": "Coming Soon!",
+    "type": "popup",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "for_you",
+      "offer"
+    ],
+    "industries": [
+      "ecom"
+    ]
+  },
+  {
+    "id": 344,
+    "title": "Get Latest Updates",
+    "type": "inline",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "for_you",
+      "sub"
+    ],
+    "industries": [
+      "ecom"
+    ]
+  },
+  {
+    "id": 343,
+    "title": "Get Latest Updates",
+    "type": "slidein",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "for_you",
+      "sub"
+    ],
+    "industries": [
+      "ecom"
+    ]
+  },
+  {
+    "id": 342,
+    "title": "Get Latest Update",
+    "type": "popup",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "for_you",
+      "sub"
+    ],
+    "industries": [
+      "ecom"
+    ]
+  },
+  {
+    "id": 341,
+    "title": "Summer Calling Offer 25%",
+    "type": "inline",
+    "categories": [
+      "summer"
+    ],
+    "goals": [
+      "for_you",
+      "sub"
+    ],
+    "industries": [
+      "travel"
+    ]
+  },
+  {
+    "id": 340,
+    "title": "Summer Calling Offer 25%",
+    "type": "slidein",
+    "categories": [
+      "summer"
+    ],
+    "goals": [
+      "for_you",
+      "sub"
+    ],
+    "industries": [
+      "travel"
+    ]
+  },
+  {
+    "id": 339,
+    "title": "Summer Calling Offer 25%",
+    "type": "popup",
+    "categories": [
+      "summer"
+    ],
+    "goals": [
+      "for_you",
+      "sub"
+    ],
+    "industries": [
+      "travel"
+    ]
+  },
+  {
+    "id": 338,
+    "title": "Water Bottle New Arrival",
+    "type": "inline",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "ann",
+      "for_you"
+    ],
+    "industries": [
+      "ecom"
+    ]
+  },
+  {
+    "id": 337,
+    "title": "Water Bottle New Arrival",
+    "type": "slidein",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "ann",
+      "for_you"
+    ],
+    "industries": [
+      "ecom"
+    ]
+  },
+  {
+    "id": 336,
+    "title": "Water Bottle New Arrival",
+    "type": "popup",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "ann",
+      "for_you"
+    ],
+    "industries": [
+      "ecom"
+    ]
+  },
+  {
+    "id": 335,
+    "title": "Shopping Coupon",
+    "type": "inline",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "ann"
+    ],
+    "industries": [
+      "fashion"
+    ]
+  },
+  {
+    "id": 334,
+    "title": "Shopping Coupon",
+    "type": "slidein",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "ann"
+    ],
+    "industries": [
+      "fashion"
+    ]
+  },
+  {
+    "id": 333,
+    "title": "Shopping Coupon",
+    "type": "popup",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "ann"
+    ],
+    "industries": [
+      "fashion"
+    ]
+  },
+  {
+    "id": 332,
+    "title": "Super Sunday Sale",
+    "type": "banner",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "offer"
+    ],
+    "industries": [
+      "fashion"
+    ]
+  },
+  {
+    "id": 331,
+    "title": "Super Sunday Sale",
+    "type": "inline",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "offer"
+    ],
+    "industries": [
+      "fashion"
+    ]
+  },
+  {
+    "id": 330,
+    "title": "Super Sunday Sale",
+    "type": "slidein",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "offer"
+    ],
+    "industries": [
+      "fashion"
+    ]
+  },
+  {
+    "id": 329,
+    "title": "Super Sunday Sale",
+    "type": "popup",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "offer"
+    ],
+    "industries": [
+      "fashion"
+    ]
+  },
+  {
+    "id": 328,
+    "title": "New Arrival Electronics Store",
+    "type": "popup",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "for_you",
+      "sub"
+    ],
+    "industries": [
+      "electronics"
+    ]
+  },
+  {
+    "id": 327,
+    "title": "GRAND FINAL",
+    "type": "slidein",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "ann"
+    ],
+    "industries": [
+      "sport"
+    ]
+  },
+  {
+    "id": 326,
+    "title": "GRAND FINAL",
+    "type": "popup",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "ann",
+      "for_you"
+    ],
+    "industries": [
+      "sport"
+    ]
+  },
+  {
+    "id": 325,
+    "title": "App Download Optin",
+    "type": "inline",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "ann",
+      "for_you"
+    ],
+    "industries": [
+      "saas"
+    ]
+  },
+  {
+    "id": 324,
+    "title": "App Download Optin",
+    "type": "slidein",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "ann",
+      "for_you"
+    ],
+    "industries": [
+      "saas"
+    ]
+  },
+  {
+    "id": 323,
+    "title": "App Download Optin",
+    "type": "popup",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "ann",
+      "for_you"
+    ],
+    "industries": [
+      "saas"
+    ]
+  },
+  {
+    "id": 322,
+    "title": "All In for the Win \u2013 Join Today!",
+    "type": "popup",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "ann",
+      "for_you"
+    ],
+    "industries": [
+      "sport"
+    ]
+  },
+  {
+    "id": 321,
+    "title": "All In for the Win \u2013 Join Today!",
+    "type": "slidein",
+    "categories": [
+      "general"
+    ],
+    "goals": [
+      "ann",
+      "for_you"
+    ],
+    "industries": [
+      "sport"
+    ]
+  }
+]
